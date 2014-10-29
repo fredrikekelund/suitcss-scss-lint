@@ -4,4 +4,6 @@ I like [SUITCSS](https://github.com/suitcss) (read up on it in [this excellent b
 
 The most advanced thing in here is the selector name matching, which by the way also permits Angular style classes, like `ng-invalid` etc.
 
+Documentation for the different scss-lint options can be found [here](https://github.com/causes/scss-lint/blob/master/lib/scss_lint/linter/README.md).
+
 :v:
