@@ -102,7 +102,7 @@ linters:
 
     SelectorFormat:
         enabled: true
-        convention: ^(([A-Z][a-z]*)+$|(([A-Z][a-z]*)+|u|is)(-|--)([a-z]+([a-z]|[A-Z])*)+|(([A-Z][a-z]*)+|u|is)(-|--)([a-z]+([a-z]|[A-Z])*)+(--[a-z]+([a-z]|[A-Z])*)+)|[ng]-(\w)+(-(\w)*)*$
+        convention: ^(([A-Z][a-z]*)+$|(([A-Z][a-z]*)+|u|is|js)(-|--)([a-z]+([a-z]|[A-Z])*)+|(([A-Z][a-z]*)+|u|is|js)(-|--)([a-z]+([a-z]|[A-Z])*)+(--[a-z]+([a-z]|[A-Z])*)+)|[ng]-(\w)+(-(\w)*)*$
         ignored_names: ["better-timeinput"]
         ignored_types: ["attribute", "element", "pseudo-selector"]
 
